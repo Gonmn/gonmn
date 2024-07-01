@@ -5,7 +5,7 @@
 ### About Me
 - Chilean
 - I studied advertising and marketing
-- Si nadie me enseña,  me enseño yo mismo.
+- If no one teaches me, I teach myself.
 - I believe that data is the best way to make decisions.
 
   ### Contact Me
