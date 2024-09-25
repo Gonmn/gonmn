@@ -1,7 +1,7 @@
 # GONMN
 <h1>Hello! Im  Gonzalo M.N.  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
- <img src="C:/Users/Asus/Downloads/Banner de LinkedIn.png">
 
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/Gonmn/Imagenes/refs/heads/main/Banner%20de%20LinkedIn%20.png)
 
 <h2>Man of Marketing 🎤 and  Data Analyst 📈</h2>
 
