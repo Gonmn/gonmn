@@ -11,10 +11,36 @@
 - If no one teaches me, I teach myself.
 - I believe that data is the best way to make decisions.
 
+    #### :fireworks: Habilidades como Data Analyst:
+  - Creación de documentación de pruebas con análisis de requisitos y diagramas de flujo.
+  - Visualización de datos con librearias como Matplotlib o servicios como Tableau o Looker Studio
+  - Ejecución de pruebas manuales y de regresión; validación y limpiez de datasets de datos.
+  - Gestión y mantenimiento de bases de datos relacionales, utilizando línea de comandos.
+  - Creación y optimización de consultas SQL, incluyendo selección, inserción, actualización y eliminación de datos.
+  - Aprendizaje de fundamentos para la automatización de pruebas con Pytest, Python, y Selenium en Pycharm.
+
+  #### :muscle: Habilidades adquiridas:
+  - Planificación, organización, adaptabilidad, resolución de problemas administrando un proyecto.
+  - Dirigir, planificar, comunicación, resolución de problemas técnicos y logísticos, atención al detalley detección de patrones.
+  - Análisis de información dura o comunicacional, atención al detalle, precisión, capacidad de resolución de problemas. 
+
+  #### 🛠️ Lenguaje y herramientas:
+  <div id="header" align="left">      
+  
+  - MySQL, SQL,
+    
+   - JSON, Jupyter,
+     
+   - Python, Pandas,
+     
+   - Matplotlib, GitHub,
+     
+   - Photoshop, Illustrator.
+
   ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="center">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,ai,ps,pr,github,vscode,windows,powershell)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,ai,ps,pr,github,vscode,windows,powershell)](https://skillicons.dev) ![361191774-46c473bb-0238-4936-8624-2f8814e44d44](https://github.com/user-attachments/assets/0b0ac525-8197-43a1-8806-ab0fe89701ce)![361192216-a55bb36f-2eb8-49a0-87e0-eeac39fe18bc](https://github.com/user-attachments/assets/5a2f54d2-7a34-4729-9e21-908eb782fe03)![361191876-c6d83e57-e0f1-45b3-9c98-7d0521f39207](https://github.com/user-attachments/assets/3949cd0b-d42d-4bf9-95b4-7170a7155de1)
 
 </div>
 
